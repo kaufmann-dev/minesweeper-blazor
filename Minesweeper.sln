@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineUI", "MineUI\MineUI.csproj", "{EBD49005-B6F7-4D34-B1C0-81D8257991BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{48E102E1-1E01-4B3E-B3E0-783FCA4551E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineTest", "MineTest\MineTest.csproj", "{8F6BAA62-0001-4366-9924-9709BFC49BE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBD49005-B6F7-4D34-B1C0-81D8257991BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD49005-B6F7-4D34-B1C0-81D8257991BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD49005-B6F7-4D34-B1C0-81D8257991BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD49005-B6F7-4D34-B1C0-81D8257991BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E102E1-1E01-4B3E-B3E0-783FCA4551E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E102E1-1E01-4B3E-B3E0-783FCA4551E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E102E1-1E01-4B3E-B3E0-783FCA4551E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E102E1-1E01-4B3E-B3E0-783FCA4551E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F6BAA62-0001-4366-9924-9709BFC49BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6BAA62-0001-4366-9924-9709BFC49BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6BAA62-0001-4366-9924-9709BFC49BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6BAA62-0001-4366-9924-9709BFC49BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
